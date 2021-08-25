@@ -75,7 +75,7 @@ export default {
    * customSize: { width: 800, height: 400 }
    * customSize: 100%
    */
-  customSize: null,
+  customSize: 150%,
 
   /**
    * A callback function that will be called when a target is opened and
