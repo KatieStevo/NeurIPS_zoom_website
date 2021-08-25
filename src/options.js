@@ -47,13 +47,13 @@ export default {
    * The base scale factor for zooming. By default scale to fit the window.
    * @type {number}
    */
-  scaleBase: 0.7,
+  scaleBase: 0.5,
 
   /**
    * The additional scale factor when grabbing the image.
    * @type {number}
    */
-  scaleExtra: 3.0,
+  scaleExtra: 2.5,
 
   /**
    * How much scrolling it takes before closing out.
