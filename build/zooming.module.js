@@ -129,7 +129,7 @@ var DEFAULT_OPTIONS = {
    * The additional scale factor when grabbing the image.
    * @type {number}
    */
-  scaleExtra: 0.5,
+  scaleExtra: 10.5,
 
   /**
    * How much scrolling it takes before closing out.
