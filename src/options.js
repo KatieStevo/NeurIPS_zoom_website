@@ -47,7 +47,7 @@ export default {
    * The base scale factor for zooming. By default scale to fit the window.
    * @type {number}
    */
-  scaleBase: 1.0,
+  scaleBase: 0.7,
 
   /**
    * The additional scale factor when grabbing the image.
@@ -75,7 +75,7 @@ export default {
    * customSize: { width: 800, height: 400 }
    * customSize: 100%
    */
-  customSize: 70%,
+  customSize: noop,
 
   /**
    * A callback function that will be called when a target is opened and
