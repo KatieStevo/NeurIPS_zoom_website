@@ -53,7 +53,7 @@ export default {
    * The additional scale factor when grabbing the image.
    * @type {number}
    */
-  scaleExtra: 0.5,
+  scaleExtra: 1.5,
 
   /**
    * How much scrolling it takes before closing out.
