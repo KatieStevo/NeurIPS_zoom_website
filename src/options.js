@@ -47,7 +47,7 @@ export default {
    * The base scale factor for zooming. By default scale to fit the window.
    * @type {number}
    */
-  scaleBase: 1.0,
+  scaleBase: 5.0,
 
   /**
    * The additional scale factor when grabbing the image.
