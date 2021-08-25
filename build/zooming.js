@@ -129,13 +129,13 @@
      * The base scale factor for zooming. By default scale to fit the window.
      * @type {number}
      */
-    scaleBase: 1.0,
+    scaleBase: 0.7,
 
     /**
      * The additional scale factor when grabbing the image.
      * @type {number}
      */
-    scaleExtra: 5.5,
+    scaleExtra: 3.5,
 
     /**
      * How much scrolling it takes before closing out.
